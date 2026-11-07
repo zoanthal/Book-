@@ -1,0 +1,91 @@
+NARRATION NOTES
+Original narration: resonant, theatrical British delivery; conversational warmth; restrained irony. No impersonation of any identifiable performer. Pause after section headings. Underplay the jokes; leave a beat before the final three paragraphs. Do not read citations aloud.
+
+The Sex Life of Furniture
+
+I. An inheritance nobody remembers accepting
+
+The first thing to understand about French is that a chair is feminine. This does not entitle it to maternity leave. It simply means that, before you can announce that you would like to sit down, the language requires you to complete a small administrative exercise concerning the chair’s category. Italian has much the same arrangement. You may be exhausted, but grammar is not.
+
+The second thing to understand is that grammatical gender is not human gender identity, biological sex, or a personality assessment of the furniture. It is a system of noun classes, visible in the words that agree with nouns: articles, adjectives, and sometimes pronouns. In French and Italian, the two principal classes are called masculine and feminine. These labels become socially consequential when the nouns designate people, but a feminine chair is not evidence that carpentry has developed a theory of womanhood.
+
+Why have the classes at all? The immediate historical answer is inheritance. French and Italian developed from spoken Latin, which had masculine, feminine, and neuter nouns. Their speakers did not convene to decide whether two genders would improve tourism. They received a changing system from previous generations, rather as one inherits a house whose wiring was installed by a man known locally as Sparks.
+
+This distinction matters because there are two tempting, equally unsatisfactory stories. In one, every grammatical category is an ancient conspiracy against women. In the other, grammar is an immaculate machine that has never met society and would prefer not to be introduced. The first mistakes historical inheritance for a single deliberate design. The second treats repeated human choices as if they were weather.
+
+A language can inherit a classification system without inheriting an obligation to use every part of it forever. Conversely, finding a social problem in one use of masculine agreement does not establish that every feminine lampshade is an accomplice.
+
+We should therefore begin with Latin, which is where European explanations often begin when nobody wishes to identify the person responsible. Latin is especially convenient because its native speakers are unavailable for a difficult follow-up interview.
+
+II. The neuter has left the meeting, approximately
+
+Latin’s three-gender system did not become the modern French and Italian systems through one tidy deletion. Sound changes and the restructuring of inflections helped blur distinctions; nouns and their agreement patterns were reorganized over generations. Former neuter nouns could move into surviving classes. Latin dōnum, “gift,” for example, gives masculine don in French and dono in Italian. The gift survived. Its filing cabinet changed.
+
+Here a responsible history must interrupt the attractive sentence “Then Romance lost the neuter.” Michele Loporcaro’s comparative research shows why that familiar account is too simple: Romance varieties preserve and transform Latin neuter patterns in different ways. Modern standard French and Italian are not the whole family. Their relatively familiar binary systems cannot simply be projected backward onto every late-Latin speaker and outward onto every Romance variety.
+
+This is the trouble with history. Just when you have made it short enough for a dinner party, a specialist produces a dialect.
+
+Nor should Latin neuter be mistaken for an ancient nonbinary identity category. Grammatical classes and people’s identities are different kinds of classification. Recovering an old noun class would not automatically settle how to address a living person. An antique cupboard remains an antique cupboard even if we put a contemporary label on it.
+
+Gender is also not something a speaker must freshly calculate from the apparent masculinity of each object. Children acquire patterns; learners memorize forms and exceptions; usage transmits the system. The furniture is not being assessed by a committee whenever someone orders lunch. Much of the machinery is ordinary linguistic habit.
+
+The interesting problem begins when that machinery handles people. French and Italian distinguish gender in many human role nouns and use masculine forms generically, including for mixed groups. What works as a grammatical convention may still have consequences for visibility. A form can officially include everybody while encouraging listeners to imagine only some of them.
+
+This is a more precise criticism than saying that all gendered nouns are inherently sexist. It asks where a convention directs attention, whose presence it names explicitly, and whose presence it leaves to the reader’s charitable imagination. Being technically invited is not always the same as finding your name on the door.
+
+III. Everyone is welcome; some assembly required
+
+The generic masculine is a little like a hotel advertising that breakfast is included and then explaining that “breakfast” also means the possibility of imagining toast. Grammatically, the masculine form can represent a mixed group. Psychologically, that does not guarantee an evenly mixed picture.
+
+In a 2008 experiment, Pascal Gygax and colleagues examined how readers interpreted role names in French, German, and English. In French and German, masculine forms intended generically produced male-biased representations, even when the occupations carried different gender stereotypes. English readers relied more on occupational stereotypes. The important finding is not that grammar controls the mind, but that the supposedly neutral default can steer it.
+
+The English comparison is an especially useful embarrassment. Removing grammatical gender does not remove prejudice; stereotypes can do the work without a uniform. A language may dispense with gendered articles and still furnish the imagination with a male mechanic and a female beautician. There is no reason to congratulate English so enthusiastically that it starts charging admission.
+
+Equally, a reading experiment is not proof that changing an ending will eliminate a pay gap. Evidence about immediate mental representation should not be inflated into a universal account of discrimination. Language is one place where expectations operate, not a remote control for the entire civilization.
+
+Still, “not the entire civilization” is a poor reason to ignore it. A doorway need not be the whole building to be worth widening.
+
+France’s responses include explicitly naming women and men, using collective formulations, and experimenting with compact written forms. A middle dot can combine endings, as in étudiant·e·s. These approaches are not identical: naming women more visibly does not necessarily provide a form in which nonbinary people recognize themselves. The argument is partly about which problem a reform actually solves.
+
+The French education ministry’s 2021 circular illustrates the distinction. It supports feminizing titles and functions while prohibiting the middle-dot style of inclusive writing in its educational and administrative scope. In December 2024, the Conseil d’État upheld the challenged educational rules, including standard agreement and restrictions on word-fragmenting spellings, citing language learning and reading considerations. That is not a universal ban on every inclusive expression in France.
+
+A government can therefore support visibility for women and reject a particular typographic device. Public argument often finds this distinction disappointing. It had already bought two flags.
+
+IV. Italy auditions a vowel
+
+Italy’s debate has a long runway. Discussions since the 1980s have addressed linguistic sexism, women’s visibility, and feminine occupational titles; more recent proposals also address nonbinary inclusion. These are related projects, not interchangeable ones. Making “female mayor” sound ordinary does not by itself provide a comfortable grammatical home for someone who is neither a woman nor a man.
+
+Feminine professional titles offer a comparatively familiar route. Forms such as ministra, avvocata, and sindaca name women as ministers, lawyers, and mayors. In its 2023 response about judicial writing, the Accademia della Crusca supported feminine titles for women while retaining the generic masculine and rejecting proposed symbols in that context. Its position was neither “change nothing” nor “replace the language by Friday.”
+
+What interests me is the distinction between an unfamiliar word and an impossible one. People often report that a new professional feminine sounds wrong. Perhaps it does sound unfamiliar to them. But unfamiliarity is a description of an encounter, not necessarily a verdict on the visitor. Plenty of useful things initially seem odd, including bifocals and anyone else’s dinner.
+
+More radical proposals replace gendered endings with an asterisk or the schwa, written ə. Advocates seek alternatives to masculine defaults and binary choices. Yet those proposals raise practical questions about pronunciation, agreement, learning, and use across different settings. An asterisk does not announce its own sound. A schwa is a proposed spoken solution as well as a written sign, but it is not a standard Italian gender ending.
+
+For legal writing, the Crusca rejected these innovations and defended the existing masculine generic. That is an influential institutional position, not proof that all Italians agree or that experimental usage has vanished. A language academy can issue advice. It cannot stand behind every phone while someone composes a group message. Even an unusually well-funded academy would need shifts.
+
+There are less conspicuous options, too: choose a collective expression, restructure a sentence, or name the relevant people explicitly. Such strategies can improve inclusion without requiring every sentence to display its renovation permit. They also have limits. A collective may neatly avoid a gendered ending while doing little to acknowledge an individual’s identity.
+
+The useful question is therefore not “Which side loves language?” Both sides claim the inheritance. It is “Which wording serves these people, in this setting, with the least avoidable exclusion?” This question has the disadvantage of requiring thought after the slogan has finished.
+
+V. A modest proposal for the species
+
+What would progress look like? Not a mass evacuation of every masculine noun, with frightened tables being escorted across the border. Not an insistence that anything familiar must be fair. It would look like distinguishing problems before prescribing solutions.
+
+For women’s visibility, feminine professional titles can name the person actually doing the job. For mixed groups, paired forms or collective wording may reduce dependence on the masculine default. For nonbinary people, the challenge is not fully answered by mentioning women and men more often; it includes how individuals want to be addressed and whether the available forms make room for them. These goals overlap, but none should be quietly substituted for the others.
+
+My own proposed etiquette is modest: ask what a wording is meant to achieve, notice who has to do extra interpretive work, and take objections about usability seriously without treating every unfamiliar syllable as a national emergency. Readability and dignity should not be introduced as mortal enemies before they have even exchanged coats.
+
+Nor should a clever spelling become a receipt proving that the writer has paid every outstanding debt to justice. It is possible to compose an exquisitely inclusive announcement for a meeting to which the poorly paid staff cannot afford the bus fare. The announcement may be an improvement. It is not the bus.
+
+Conversely, demanding that language repair nothing until society repairs everything is an excellent method of ensuring that nobody touches either. The world’s most comfortable chair is the one from which we explain why someone else’s proposed improvement is insufficient.
+
+French and Italian offer no single happy ending. They offer living arguments: inherited systems, changing expectations, institutional limits, imaginative experiments, and people who need to get through a sentence without being turned into a philosophical emergency. That is untidy. It is also more promising than a dead language, whose speakers have finally stopped interrupting one another.
+
+The hopeful part is that we can revise a habit without declaring every previous speaker a monster. We can discover that a default excludes someone and make room. We can also admit that a proposed repair needs another draft. Neither admission requires civilization to collapse, although several commentators may have to reschedule their appearances.
+
+Someday, perhaps, we will build a language in which nobody is mistaken for an afterthought. The traditionalists will hate the alterations. The reformers will hate the compromises. The rest of us will hate the meeting.
+
+At last, everyone will have a seat at the table.
+
+The table, naturally, will still be feminine. The bill will be gender-neutral—and split equally between people with wildly unequal salaries.
+
